@@ -1,10 +1,12 @@
 # Keylime
 
-[![Build
-Status](https://travis-ci.org/keylime/keylime.svg?branch=master)](https://travis-ci.org/keylime/keylime) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/keylime-project/community)
-
 ![keylime](doc/keylime.png?raw=true "Title")
 
+----------------
+**Note that this is an MIT Keylime copy released under the original BSD-2 license.**  
+**The community-maintained version is available at https://github.com/keylime/keylime**
+
+----------------
 Keylime is an open source scalable trust system harnessing TPM Technology.
 
 Keylime provides an end-to-end solution for bootstrapping hardware rooted
